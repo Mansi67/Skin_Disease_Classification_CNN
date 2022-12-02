@@ -19,4 +19,4 @@ Datset is imbalanced.
 | Retraining InceptionResNet | 83.25% |
 | Fine Tuning InceptionV3 (layer >249 trainable=True)| 84.20% |
 | Fine Tuning InceptionResNet (layer >600 trainable=True)| 85.26% |
-
+| Fine Tuning EfficientNet (layer >200 trainable=True)| 84.08% |
